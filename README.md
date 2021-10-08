@@ -67,8 +67,8 @@ Pentest.yml
 Ansible was used to automate configuration of the ELK machine. No configuration was performed manually, which is advantageous because... What is the main advantage of automating configuration with Ansible?
 
 Deployment of multiple servers easily without touching each server is the main advantage of authomating configuration with Ansible.
-Efficient- because you don't need to install any extra software.
-Powerful- Ansible lets you model even highly complex IT workflows.
+  Efficient- because you don't need to install any extra software.
+  Powerful- Ansible lets you model even highly complex IT workflows.
 The playbook implements the following tasks: In 3-5 bullets, explain the steps of the ELK installation play. E.g., install Docker; download image; etc.
 
 Install Docker.io
